@@ -1,0 +1,82 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="faceid.com" resolutions="1x" timestamp="1506447533009">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_result---newcomer.css" crc="3876229805" ref="result---newcomer"/>
+    <file name="master_b-master.css" crc="4232800575" ref="save-done"/>
+    <file name="master_result---clean.css" crc="588570" ref="result---clean"/>
+    <file name="master_finish.css" crc="3915093604" ref="finish"/>
+    <file name="master_result---warning.css" crc="176314235" ref="result---warning"/>
+    <file name="master_a-master.css" crc="4023539169" ref="index:result---warning:finish:scan-face:result---newcomer:save-done:result---clean:scan-id"/>
+    <file name="index.css" crc="400413502" ref="index"/>
+    <file name="result---warning.css" crc="412924983" ref="result---warning"/>
+    <file name="finish.css" crc="4084792885" ref="finish"/>
+    <file name="scan-face.css" crc="4125151782" ref="scan-face"/>
+    <file name="result---newcomer.css" crc="117148209" ref="result---newcomer"/>
+    <file name="save-done.css" crc="3768464407" ref="save-done"/>
+    <file name="result---clean.css" crc="4143771452" ref="result---clean"/>
+    <file name="scan-id.css" crc="465404232" ref="scan-id"/>
+  </folder>
+  <folder name="assets">
+    <file name="giphy.mp4" crc="3893305427" seo="true" mt="1506405728000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:scan-face:scan-id:finish:save-done:result---clean:result---warning:result---newcomer"/>
+    <file name="museutils.js" crc="4232573551" ref="index:scan-face:scan-id:finish:save-done:result---clean:result---warning:result---newcomer"/>
+    <file name="whatinput.js" crc="86476730" ref="index:scan-face:scan-id:finish:save-done:result---clean:result---warning:result---newcomer"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:scan-face:scan-id:finish:save-done:result---clean:result---warning:result---newcomer"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:scan-face:scan-id:finish:save-done:result---clean:result---warning:result---newcomer"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:scan-face:scan-id"/>
+    <file name="require.js" crc="4234670167" ref="index:scan-face:scan-id:finish:save-done:result---clean:result---warning:result---newcomer"/>
+    <file name="webpro.js" crc="3770351119" ref="scan-id:save-done"/>
+    <file name="form_check.php" crc="3841221102" ref="scan-id"/>
+    <file name="form_throttle.php" crc="4048049783" ref="scan-id"/>
+    <file name="form_process.php" crc="3899230280" ref="scan-id"/>
+    <file name="form-u1155.php" crc="4152607951" ref="scan-id"/>
+    <file name="form-u1626.php" crc="4149662542" ref="save-done"/>
+    <file name="form-u1821.php" crc="350199339" ref="save-done"/>
+  </folder>
+  <folder name="images">
+    <file name="topica ai lab.jpg" crc="3899784209" ref="index:scan-face:scan-id">
+      <caption webpage="index" alt=""/>
+      <caption webpage="scan-face" alt=""/>
+      <caption webpage="scan-id" alt=""/>
+    </file>
+    <file name="alert-icon-1562.png" crc="523315291" seo="true" ref="finish:result---warning">
+      <caption webpage="result---warning" alt=""/>
+      <caption webpage="result---warning" alt=""/>
+      <caption webpage="finish" alt=""/>
+    </file>
+    <file name="check-mark--crop-u4488.png" crc="3822812632" seo="true" ref="finish">
+      <caption webpage="finish" alt=""/>
+    </file>
+    <file name="check-mark--crop-u4519.png" crc="3822812632" seo="true" ref="finish">
+      <caption webpage="finish" alt=""/>
+    </file>
+    <file name="pasted image 427x126.jpg" crc="3847199973" seo="true" ref="finish:result---clean:result---warning:result---newcomer">
+      <caption webpage="result---clean" alt=""/>
+      <caption webpage="result---warning" alt=""/>
+      <caption webpage="finish" alt=""/>
+      <caption webpage="result---newcomer" alt=""/>
+    </file>
+    <file name="check-mark--crop-u5853.png" crc="3822812632" seo="true" ref="result---clean">
+      <caption webpage="result---clean" alt=""/>
+    </file>
+    <file name="check-mark--crop-u5817.png" crc="3822812632" seo="true" ref="result---clean">
+      <caption webpage="result---clean" alt=""/>
+    </file>
+    <file name="check-mark--crop-u5972.png" crc="3822812632" seo="true" ref="result---newcomer">
+      <caption webpage="result---newcomer" alt=""/>
+    </file>
+    <file name="check-mark--crop-u6008.png" crc="3822812632" seo="true" ref="result---newcomer">
+      <caption webpage="result---newcomer" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="488303710" seo="true" mt="1506444798217" redirect="true"/>
+  <file name="scan-face.html" crc="70059843" seo="true" mt="1506444798217" redirect="true"/>
+  <file name="scan-id.html" crc="3936170367" seo="true" mt="1506444798217" redirect="true"/>
+  <file name="finish.html" crc="4199532439" seo="true" mt="1506447404693" redirect="true"/>
+  <file name="save-done.html" crc="20319110" seo="true" mt="1506445030623" redirect="true"/>
+  <file name="result---clean.html" crc="33323312" seo="true" mt="1506447458369" redirect="true"/>
+  <file name="result---warning.html" crc="405906181" seo="true" mt="1506447477920" redirect="true"/>
+  <file name="result---newcomer.html" crc="308533718" seo="true" mt="1506447424404" redirect="true"/>
+</manifest>
